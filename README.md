@@ -42,7 +42,7 @@ Berikut adalah sertifikat pelatihan yang telah diterima:
 
 | No. | Course                                       | Issued      | Cert link |
 |-----|----------------------------------------------|-------------|-----------|
-| 1   | Memulai Pemrograman Dengan Python           | 19-10-2024  | ->https://www.dicoding.com/certificates/2VX34O39VZYQ |
+| 1   | Memulai Pemrograman Dengan Python           | 19-10-2024  | https://www.dicoding.com/certificates/2VX34O39VZYQ |
 
 
 Terima kasih telah mengunjungi repositori ini. Selamat belajar dan semoga sukses dalam perjalanan pemrograman Anda!
