@@ -35,3 +35,5 @@ Berikut adalah daftar file yang ada di repositori ini beserta penjelasannya:
    ```bash
    git clone https://github.com/username/repo.git
    cd repo
+
+Terima kasih telah mengunjungi repositori ini. Selamat belajar dan semoga sukses dalam perjalanan pemrograman Anda!
