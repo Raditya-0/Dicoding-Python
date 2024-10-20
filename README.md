@@ -1,6 +1,6 @@
-## Dicoding-Python
+# Dicoding-Python
 
-# Memulai Pemrograman Dengan Python
+## Memulai Pemrograman Dengan Python
 
 Selamat datang di repositori ini! Di sini, Anda akan menemukan berbagai soal dan latihan terkait pemrograman menggunakan bahasa Python. Semua materi dalam repositori ini berasal dari platform Dicoding dan ditujukan untuk membantu Anda memahami konsep dasar pemrograman dengan Python.
 
@@ -29,6 +29,8 @@ Berikut adalah daftar file yang ada di repositori ini beserta penjelasannya:
 7. **Object-oriented Programming.py**
    - Menjelaskan konsep pemrograman berorientasi objek (OOP) dalam Python, termasuk class, objek, inheritance, dan encapsulation.
 
+![Pengenalan Program Python](https://github.com/user-attachments/assets/0174590e-fe92-4d45-8956-406f1fb6bed5)
+
 ## Cara Menggunakan
 
 1. **Clone Repositori**:
@@ -44,6 +46,5 @@ Berikut adalah sertifikat pelatihan yang telah diterima:
 |-----|----------------------------------------------|-------------|-----------|
 | 1   | Memulai Pemrograman Dengan Python           | 18-10-2024  | https://www.dicoding.com/certificates/2VX34O39VZYQ |
 
-![Pengenalan Program Python](https://github.com/user-attachments/assets/0174590e-fe92-4d45-8956-406f1fb6bed5)
 
 Terima kasih telah mengunjungi repositori ini. Selamat belajar dan semoga sukses dalam perjalanan pemrograman Anda!
