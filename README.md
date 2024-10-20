@@ -1,4 +1,4 @@
-# Dicoding-Python
+## Dicoding-Python
 
 # Memulai Pemrograman Dengan Python
 
@@ -44,5 +44,6 @@ Berikut adalah sertifikat pelatihan yang telah diterima:
 |-----|----------------------------------------------|-------------|-----------|
 | 1   | Memulai Pemrograman Dengan Python           | 18-10-2024  | https://www.dicoding.com/certificates/2VX34O39VZYQ |
 
+![Pengenalan Program Python](https://github.com/user-attachments/assets/0174590e-fe92-4d45-8956-406f1fb6bed5)
 
 Terima kasih telah mengunjungi repositori ini. Selamat belajar dan semoga sukses dalam perjalanan pemrograman Anda!
